@@ -260,13 +260,12 @@ h3{
 .content{
     width: 100%;
     max-width: 1000px;
-    margin: auto;
-    padding: 60px 100px;
-    margin-top: 5px;
-    border-top: 6px;
-    text-align: right;
-    font-weight: normal;
+    margin: 10px;
 }
+.pasos {
+    display: block;
+}
+
 
 #t2{
     text-align: right;
